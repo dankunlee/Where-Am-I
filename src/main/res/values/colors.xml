@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Action Bar Color-->
+    <color name="colorPrimary">#855fc4</color>
+    <!--Status Bar Color-->
+    <color name="colorPrimaryDark">#083358</color>
+    <color name="colorAccent">#a074ea</color>
+    <color name="color">#330e68</color>
+</resources>
+
+
+    <!--FF4081-->
